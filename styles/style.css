@@ -1,7 +1,7 @@
 body {
   width: 1100px;
   height: 3028px;
-  margin: 0 auto;
+  margin: 105px auto;
   font-family: Raleway, sans-serif;
   background-color: #ffffff;
 }
@@ -13,8 +13,9 @@ body {
   align-items: center;
   width: 1052px;
   height: 105px;
-  margin-top: -18px;
-  margin-left: 21px;
+  margin-top: -71px;
+  margin-left: 41px;
+  margin-bottom: 53px;
   padding: 92px 20px;
 }
 
@@ -53,7 +54,7 @@ body {
 .header_menu_logo {
   width: 148px;
   height: 105px;
-  margin-right: 90px;
+  margin-right: 130px;
 }
 
 .contacts {
@@ -61,7 +62,7 @@ body {
   flex-direction: column;
   font-size: 18px;
   margin-top: 5px;
-  margin-right: 70px;
+  margin-right: 27px;
   gap: 3px;
 }
 
@@ -196,12 +197,12 @@ body {
 .subline {
   flex: 1;
   color: white;
-  margin-left: 77px;
-  margin-bottom: 50px;
+  margin-left: 76px;
+  margin-bottom: 51px;
   justify-content: space-between;
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
-  word-spacing: 20px;
+  word-spacing: 19.1px;
   font-size: 22px;
   text-align: left;
 }
@@ -222,8 +223,8 @@ body {
 .lots {
   width: 1052px;
   height: 692px;
-  margin-top: 183px;
-  margin-left: 29px;
+  margin-top: 177px;
+  margin-left: 23px;
   margin-bottom: -70px;
 }
 
@@ -233,7 +234,7 @@ body {
   font-weight: bold;
   text-transform: uppercase;
   font-size: 40px;
-  margin-left: 35px;
+  margin-left: 40px;
   margin-bottom: 30px;
 }
 
@@ -242,21 +243,21 @@ body {
   width: 334px;
   height: 563px;
   grid-template-columns: repeat(3, 1fr);
-  gap: 20px;
+  gap: 25px;
 }
 
 .lot_card {
   display: flex;
   position: relative;
-  margin-bottom: 30px;
+  margin-bottom: 40px;
   width: 334px;
   height: 563px;
   overflow: hidden;
 }
 
 .lot_image {
-  width: 100%;
-  height: 100%;
+  width: 334px;
+  height: 563px;
   object-fit: cover;
 }
 
@@ -277,19 +278,18 @@ body {
 }
 
 .lot_text_cinema {
-  margin-top: 240px;
+  margin-top: 241px;
   display: flex;
   align-items: flex-end;
   width: 254px;
   height: 144px;
   color: white;
   font-family: "Raleway", sans-serif;
-  font-size: 20px;
+  font-size: 19.9px;
   font-weight: normal;
 }
 
 .lot_text_book {
-  margin-top: -25px;
   display: flex;
   width: 254px;
   height: 360px;
@@ -301,7 +301,7 @@ body {
 
 .lot_text_paint {
   display: flex;
-  margin-top: 69px;
+  margin-top: 96px;
   width: 254px;
   height: 264px;
   color: white;
@@ -311,7 +311,7 @@ body {
 }
 
 .lot_card_title {
-  margin-top: 15px;
+  margin-top: 22px;
   color: white;
   font-family: "Raleway", sans-serif;
   font-size: 22px;
@@ -325,8 +325,8 @@ body {
   text-decoration: underline;
   text-underline-offset: 4px;
   font-size: 20px;
-  margin-top: 25px;
-  margin-left: 34px;
+  margin-top: 30px;
+  margin-left: 40px;
   text-align: left;
 }
 
