@@ -1,1 +1,1 @@
-https://github.com/WiseMelkor/ono-tebe-nado
+https://github.com/WiseMelkor/ono-tebe-nado.git
